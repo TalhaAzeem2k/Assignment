@@ -3,7 +3,7 @@
 connect Docker containers"
 
 
-Step1-(To create a new Docker network, run the given command)
+##Step1-(To create a new Docker network, run the given command)
 
 docker network create my_network
 
